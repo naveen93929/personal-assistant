@@ -21,4 +21,8 @@ Make sure you have the following libraries installed:
 
 ```sh
 pip install speechrecognition pyttsx3 requests wikipedia webbrowser
+
+
+
+
 ![image](https://github.com/user-attachments/assets/df2d5a89-1115-41a1-88cb-8d672806e40a)
